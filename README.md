@@ -13,7 +13,6 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lala4768.lala4768&"  />
   ![header](https://capsule-render.vercel.app/api?type=venom&fontColor=1A1A40&text=Hi%20there!👋&fontSize=60&animation=fadeIn)
 </div>
 

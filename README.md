@@ -18,7 +18,7 @@
 
 ###
 
-![header](https://capsule-render.vercel.app/api?type=venom&fontColor=1A1A40&text=Hi%20there👋&fontSize=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&fontColor=1A1A40&text=Hi%20there%20👋&fontSize=40&animation=fadeIn)
 
 ###
 

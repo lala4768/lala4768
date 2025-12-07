@@ -70,7 +70,7 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jws10375)](https://so
 ###
 
 <div align="center">
-![Seungwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=lala4768&show_icons=true&theme=radical)
+![lala4768's GitHub stats](https://github-readme-stats.vercel.app/api?username=lala4768&show_icons=true&theme=radical)
 </div>
 
 ###

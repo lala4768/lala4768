@@ -18,6 +18,10 @@
 
 ###
 
+![header](https://capsule-render.vercel.app/api?type=venom&fontColor=1A1A40&text=Hi%20there!👋&fontSize=60&animation=fadeIn)
+
+###
+
 <h1 align="center">hey there 👋</h1>
 
 ###

@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=Waving)
+![header](https://capsule-render.vercel.app/api?type=venom)
 ![header](https://capsule-render.vercel.app/api?text=Hello%World!)
 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />

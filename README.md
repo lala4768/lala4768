@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
 </div>
 
 ###

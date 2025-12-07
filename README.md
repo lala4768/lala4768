@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
 
 [![Solved.ac
-jws10375](http://mazassumnida.wtf/api/v2/generate_badge?boj=jws10375)](https://solved.ac/jws10375)
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jws10375)](https://solved.ac/jws10375)
 
 <!--
 **lala4768/lala4768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

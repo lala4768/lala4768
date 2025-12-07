@@ -6,8 +6,6 @@
 <a href="https://www.notion.so/Hi-I-m-Na-Seungwon-213671e438fe8099a668cc54e0b4fa1d"target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lala4768&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lala4768&layout=compact)
 
 
 [![Solved.a

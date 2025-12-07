@@ -42,7 +42,7 @@
 ###
 
 <div align= "left">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/ros-22314E?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </div>

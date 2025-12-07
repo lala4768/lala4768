@@ -64,7 +64,6 @@
 
   [![Solved.a
   Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jws10375)](https://solved.ac/jws10375/)
-  
 </div>
 
 ###

@@ -71,7 +71,8 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jws10375)](https://so
 
 <div align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lala4768&theme=dark&show_icons=true)
+[![Seungwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=lala4768)]
+(https://github.com/lala4768/github-readme-stats)
 
 </div>
 

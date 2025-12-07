@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/static/v1?message=Naver&logo=naver&label=&color=03C75A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="naver logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <a href="https://www.notion.so/Hi-I-m-Na-Seungwon-213671e438fe8099a668cc54e0b4fa1d"target="_blank">
-<img src="https://img.shields.io/static/v1?message=Notion&logo=notion&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="notion logo"  />
+<img src="https://img.shields.io/static/v1?message=Notion&logo=notion&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="notion logo"  /></a>
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
 </div>
 

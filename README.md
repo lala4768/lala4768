@@ -5,8 +5,8 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
 
-[![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jws10375)](https://www.acmicpc.net/user/jws10375)
+[![Solved.a
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jws10375)](https://solved.ac/jws10375/)
 
 <!--
 **lala4768/lala4768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

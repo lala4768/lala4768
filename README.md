@@ -23,11 +23,10 @@
 ###
 
 ## 👩‍💻  About Me
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Seungwon !<br><br>- 🔭 I’m working as college student
+<p align="left">I'm Na Seungwon !<br><br>- 🔭 I’m working as college student
   <br>- 📚 I'm currently learning C++<br>- ⚡ In my free time I playing pokemon</p>
 
 ###

@@ -26,7 +26,8 @@
 
 ###
 
-<p align="left">I'm Seungwon !<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Seungwon !<br><br>- 🔭 I’m working as college student
+  <br>- 📚 I'm currently learning C++<br>- ⚡ In my free time I playing pokemon</p>
 
 ###
 
